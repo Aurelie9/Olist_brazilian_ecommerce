@@ -1,7 +1,7 @@
 # Olist_brazilian_ecommerce
 > Analyse des ventes de la plateforme de e commerce olist
 
-##Analyse n°1
+## Analyse n°1
 > Quels sont les types de client de la plateforme ?
 
 ```python
