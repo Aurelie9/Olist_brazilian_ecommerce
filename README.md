@@ -1,5 +1,12 @@
 # Olist_brazilian_ecommerce
+> Olist est la plus grande boutique présente sur les sites de vente. Acheter chez olist vous offre la meilleure expérience d'achat du début à la fin et une qualité et une sécurité garanties.
+Tous les produits mis en vente par olist sont vendus et livrés par des détaillants provenant de tout le Brésil, qui ont été soigneusement sélectionnés et approuvés par un processus rigoureux. Notre réseau commerçant est composé des meilleurs détaillants, importateurs, distributeurs et fabricants.
+
+![olist logo](https://github.com/Aurelie9/Olist_brazilian_ecommerce/assets/161243335/3bc7956f-6ffd-4349-9fef-ccc8c971407c)
+
 > Analyse des ventes de la plateforme de e commerce olist
+![olist-vidéo](https://github.com/Aurelie9/Olist_brazilian_ecommerce/assets/161243335/3e378ffe-3a60-4db4-9a39-9451dc481f2a)
+
 
 ## Analyse n°1
 > Quels sont les types de client de la plateforme ?
