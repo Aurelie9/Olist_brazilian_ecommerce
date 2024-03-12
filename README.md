@@ -5,7 +5,8 @@ Tous les produits mis en vente par olist sont vendus et livrés par des détaill
 ![olist logo](https://github.com/Aurelie9/Olist_brazilian_ecommerce/assets/161243335/3bc7956f-6ffd-4349-9fef-ccc8c971407c)
 
 > Analyse des ventes de la plateforme de e commerce olist
-![olist-vidéo](https://github.com/Aurelie9/Olist_brazilian_ecommerce/assets/161243335/3e378ffe-3a60-4db4-9a39-9451dc481f2a)
+
+![olist-vidéo-3 (1)](https://github.com/Aurelie9/Olist_brazilian_ecommerce/assets/161243335/53996032-c615-4bc0-b113-d14a7926baa4)
 
 
 ## Analyse n°1
